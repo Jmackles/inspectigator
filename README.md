@@ -25,7 +25,7 @@ To install Inspectigator, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jmackles/inspectigator.git
+   git clone https://github.com/Jmackles/inspectigator.git
    ```
 2. Navigate to the project directory:
    ```bash
